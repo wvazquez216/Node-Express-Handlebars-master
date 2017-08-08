@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "Node-Express-Handlebars-master",
   "version": "1.0.0",
   "description": "Eat the Burger! A MySQL, Node, Express, Handlebars restaurant app that lets users input the names of burgers they'd like to eat.",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wvazquez216/burger.git"
+    "url": "git+https://github.com/wvazquez216/Node-Express-Handlebars-master.git"
   },
   "author": "wvazquez216",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wvazquez216/burger/issues"
+    "url": "https://github.com/wvazquez216/Node-Express-Handlebars-master/issues"
   },
-  "homepage": "https://github.com/wvazquez216/burger#readme",
+  "homepage": "https://github.com/wvazquez216/Node-Express-Handlebars-master#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
